@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MovingPao
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning Computer Science at Binus University
 - 💞️ I’m looking to collaborate on design projects
