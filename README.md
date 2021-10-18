@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science at Binus University
 - 💞️ I’m looking to collaborate on design projects
 - 📫 How to reach me:
-      email: alexanderkevin716@gmail.com or alexander.laksana@binus.ac.id
+      email to alexanderkevin716@gmail.com or alexander.laksana@binus.ac.id
 
 <!---
 MovingPao/MovingPao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
